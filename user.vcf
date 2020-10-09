@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Test;SPAZZZ;;;
-FN: SPAZZZ  Test 
-ORG:TestCo;
-TITLE:Test Title, Test Division, TestCo
-EMAIL;type=INTERNET;type=WORK;type=pref:spazzzgame1@gmail.com
-TEL;type=WORK;type=VOICE:(507) 123-4567
-item1.ADR;type=WORK;type=pref:;;145 W Bridge St\nOwatonna\, MN;;;55060;United States
+N:Newbowers;Alec;;;
+FN: Alec  Newbowers 
+ORG:Globe Life;
+TITLE:Independent Insurance Agent, Family Heritage Division, Globe Life
+EMAIL;type=INTERNET;type=WORK;type=pref:ajnewbowers@gmail.com
+TEL;type=WORK;type=VOICE:(507) 676-3943
+item1.ADR;type=WORK;type=pref:;;504 E Academy\nOwatonna\, MN;;;55060;United States
 item1.X-ABADR:sg
-item2.URL;type=pref:https://github.com/spazzz666
+item2.URL;type=pref:https://www.globelifefamilyheritage.com/
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
