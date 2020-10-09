@@ -6,7 +6,7 @@ FN: SPAZZZ  Test
 ORG:TestCo;
 TITLE:Test Title, Test Division, TestCo
 EMAIL;type=INTERNET;type=WORK;type=pref:spazzzgame1@gmail.com
-TEL;type=WORK;type=VOICE:+65 9123 4567
+TEL;type=WORK;type=VOICE:(507) 123-4567
 item1.ADR;type=WORK;type=pref:;;145 W Bridge St\nOwatonna\, MN;;;55060;United States
 item1.X-ABADR:sg
 item2.URL;type=pref:https://github.com/spazzz666
